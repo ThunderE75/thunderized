@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "coder-dark.css",
-	"sourceRoot": "D:/_MASTER _DRIVE/thunderized/thunderized",
+	"sourceRoot": "D:/_MASTER _DRIVE/thunderized",
 	"sources": [
 		"themes/hugo-coder/assets/scss/coder-dark.scss",
 		"themes/hugo-coder/assets/scss/_variables.scss",

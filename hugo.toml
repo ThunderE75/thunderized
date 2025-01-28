@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = "Thunderized"
 theme = "hugo-coder"
+enableEmoji = true
 
 [markup.highlight]
 style = "github-dark"
@@ -11,6 +12,7 @@ style = "github-dark"
   info = "Computer Science Student"
   description = "Navneet's personal website"
   keywords = "blog,developer,personal"
+  dateFormat = "January 1, 2000"
   avatarurl = "images/avatar.jpg"
 
   faviconSVG = "/img/favicon.svg"
@@ -18,17 +20,13 @@ style = "github-dark"
   favicon_16 = "/img/favicon-16x16.png"
 
   since = 2024
-#   license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+  # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
+  rss = '<a rel="RSS" href="/index.xml">RSS</a>'
 
   enableTwemoji = true
 
   colorScheme = "auto"
   hidecolorschemetoggle = false
-
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
-
 
 [taxonomies]
   category = "categories"
