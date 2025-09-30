@@ -27,10 +27,6 @@
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>
