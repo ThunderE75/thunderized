@@ -67,10 +67,10 @@ style = "github-dark"
   url = "https://peerlist.io/thunder"
 
 # Menu links
-# [[menu.main]]
-#   name = "Blog"
-#   weight = 1
-#   url  = "posts/"
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
 [[menu.main]]
   name = "Resumé"
   weight = 1
