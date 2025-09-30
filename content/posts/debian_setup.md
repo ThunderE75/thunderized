@@ -4,10 +4,7 @@ title = 'My Debian Setup'
 tags= ['linux', 'guide']
 +++
 
-# My Debian Setup
-
-> ⚠️ Disclaimer: 
-> This is how i like to setup a fresh install of Debian (Ubuntu) based distributions.
+This is how i like to setup a fresh install of Debian (Ubuntu) based distributions.
 
 # List of Tools
 - [nala](https://github.com/volitank/nala) - A front-end for apt (package manager)

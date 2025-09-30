@@ -1,11 +1,9 @@
 +++
 date = '2025-09-30T23:58:18+05:30'
-title = 'Remove Ubuntu Snaps'
+title = 'Remove Ubuntu Snap'
 tags= ['linux', 'guide']
 +++
-
-# How to remove Snaps from an Ubuntu System
-
+This guide shows you how to remove snap packages from an Ubuntu System
 > Remember to install a browser before removing snaps on a Ubuntu System.
 
 1. View all snaps

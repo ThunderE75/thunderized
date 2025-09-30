@@ -1,0 +1,10 @@
++++
+date = '2025-10-01T02:53:56+05:30'
+draft = true
+title = 'Socials'
++++
+
+
+- Linkedin
+- 
+- Github

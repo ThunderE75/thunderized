@@ -1,4 +1,9 @@
-> View this Resumé on [Google Docs](https://docs.google.com/document/d/1OcYeL7mQ3JaBc9r9kcoimTOJNUtiS2rEOb3KAE4tUrI/edit?usp=sharing)
++++
+title = 'resume'
+draft = true
++++
+`
+> View this Resume on [Google Docs](https://docs.google.com/document/d/1OcYeL7mQ3JaBc9r9kcoimTOJNUtiS2rEOb3KAE4tUrI/edit?usp=sharing)
 
 # Navneet Prakash Dubey, MCA
 

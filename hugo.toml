@@ -1,9 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = "Thunderized"
+title = "Thunder's Website"
+siteBanner= 'images/banner.jpg'
 theme = 'rusty-typewriter'
 enableEmoji = true
 
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
 
 [params.rtwt]
   sidePane = true
@@ -12,6 +16,7 @@ enableEmoji = true
 [params.rtwt.home]
   showBio = true
   showAuthorImg = true
+  showHomeBanner = true
   sidePaneTags = true
   showFeatured = true
   showRecent = true
@@ -30,3 +35,30 @@ enableEmoji = true
   showAttachments = true
   showRelated = true
   countRelated = 5
+
+
+[menu]
+  [[menu.main]]
+      name = "About"
+      url = "/about"
+      weight = 10
+
+  [[menu.main]]
+      name = "Resumé"
+      url = "/resume"
+      weight = 20
+
+  # [[menu.main]]
+  #     name = "Resumé"
+  #     url = "/r2"
+  #     weight = 20
+
+  [[menu.main]]
+      name = "Posts"
+      url = "/posts"
+      weight = 20
+  
+  [[menu.main]]
+    name = "Socials"
+    url = "/socials"
+    weight = 40
