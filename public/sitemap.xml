@@ -2,21 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-09-27T12:29:15+05:30</lastmod>
+    <loc>http://localhost:1313/tags/guide/</loc>
+    <lastmod>2025-09-30T23:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2025-09-30T23:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/resume/</loc>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-30T23:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/authors/</loc>
+    <loc>http://localhost:1313/posts/remove_ubuntu_snaps/</loc>
+    <lastmod>2025-09-30T23:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-30T23:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-30T23:58:18+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/series/</loc>
+    <loc>http://localhost:1313/posts/debian_setup/</loc>
+    <lastmod>2025-09-30T21:30:11+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>
