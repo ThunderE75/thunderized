@@ -36,7 +36,6 @@ enableEmoji = true
   showRelated = true
   countRelated = 5
 
-
 [menu]
   [[menu.main]]
       name = "About"
@@ -47,11 +46,6 @@ enableEmoji = true
       name = "Resumé"
       url = "/resume"
       weight = 20
-
-  # [[menu.main]]
-  #     name = "Resumé"
-  #     url = "/r2"
-  #     weight = 20
 
   [[menu.main]]
       name = "Posts"
